@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: NetflixUsuario
+  profiles:
+    active:
+      default
+  cloud:
+    config:
+      enabled: true
